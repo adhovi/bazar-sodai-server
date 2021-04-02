@@ -6,7 +6,8 @@ For this project I have used Express JS and Mongo DB in server side. Client side
 
 ### `Live Link`
 
-Firebase Hosting: [Bazar-Sodai Firebase](https://bazar-sodai.web.app)
+Firebase Hosting: [Bazar-Sodai Firebase](https://bazar-sodai-5af88.web.app)
+Netlify Hosting: [Bazar-Sodai Netlify](https://bazar-sodai.netlify.app)
 
 ### `Contact Me`
 
