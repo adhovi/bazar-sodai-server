@@ -79,6 +79,6 @@ client.connect((err) => {
   //   client.close();
 });
 
-app.listen(5055, (err) => {
+app.listen(process.env.PORT || 5055, (err) => {
   console.log("Listening");
 });
