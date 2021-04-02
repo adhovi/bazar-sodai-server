@@ -13,7 +13,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get("/", function (req, res) {
-  res.send("hello world");
+  res.send("Welcome to Bazar-Sodai Server");
 });
 
 const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@cluster0.6qte7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`;
