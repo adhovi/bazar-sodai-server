@@ -15,4 +15,4 @@ Connect Me on [Facebook](https://facebook.com/adhovi)
 
 ### `Client-Side-Repository`
 
-[Bazar-Sodai-Client](https://github.com/Porgramming-Hero-web-course/full-stack-client-adhovi)
+[Bazar-Sodai-Client](https://github.com/adhovi/bazar-sodai-client)
